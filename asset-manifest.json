@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MatchMovie/static/css/main.a240c550.css",
+    "main.js": "/MatchMovie/static/js/main.b9c86691.js",
+    "static/media/matchMovieLogo.jpg": "/MatchMovie/static/media/matchMovieLogo.f6997d81abd092f5ef8a.jpg",
+    "index.html": "/MatchMovie/index.html",
+    "main.a240c550.css.map": "/MatchMovie/static/css/main.a240c550.css.map",
+    "main.b9c86691.js.map": "/MatchMovie/static/js/main.b9c86691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.b9c86691.js"
+  ]
+}
