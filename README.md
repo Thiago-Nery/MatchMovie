@@ -1,3 +1,7 @@
+# Visit the site
+[Visit the site by clicking here](https://thiago-nery.github.io/MatchMovie/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
